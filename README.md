@@ -1,5 +1,5 @@
 <h2>Phanuwat!</h2>
-<strong>Contectme:</strong>
+<strong>Contact:</strong>
 <br>
 <code>
 <a href="https://discord.gg/g74MKqYjYW">
