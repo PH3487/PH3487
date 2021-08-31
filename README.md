@@ -1,19 +1,14 @@
-<h2>BossNz!</h2>
+<h2>Phanuwat!</h2>
 <strong>Contectme:</strong>
 <br>
 <code>
-<a href="">
+<a href="https://discord.gg/g74MKqYjYW">
   <img height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 </code>
 <code>
-<a href="https://www.facebook.com/teerawat.luesat.923">
+<a href="https://www.facebook.com/raptercode">
   <img height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-</code>
-<code>      
-<a href="ttps://steamcommunity.com/profiles/76561199060963279/">
-  <img height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
 </a>
 </code>
 <br>
