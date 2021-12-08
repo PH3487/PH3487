@@ -21,11 +21,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 ```javascript
 const PHANUWAT = {
-    Aboutme:"Hello I'm Backend Developer",
+    About_me:"Hello I'm Backend Developer",
     Languages: ["Javascript", "Php"],
     Framework: {
       Javascript:["Vuejs", "Nuxtjs","Jquery"],
-      Php:["Laravel"],
+      PHP:["Laravel"],
     },
     Fullstack:{
       Frontend:["Nuxtjs", "HTML"],
@@ -34,7 +34,7 @@ const PHANUWAT = {
     },
     Contact: {
       Facebook: "Raphior Burge",
-      Discord: "Ayaka SIMP#6404"
+      Discord: "Shibaman#8513"
     }
 };
 ```
