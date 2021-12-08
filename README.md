@@ -2,7 +2,7 @@
 <strong>Contact:</strong>
 <br>
 <code>
-<a href="https://discord.gg/g74MKqYjYW">
+<a href="https://discord.gg/TKka27rjU5">
   <img height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 </code>
