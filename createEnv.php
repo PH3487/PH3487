@@ -9,16 +9,18 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
         echo 'Bad request';
         exit();
     }
-    $create = [
-        'DB_USERNAME' => $_POST['DB_USERNAME'],
-        'DB_PASSWORD' => $_POST['DB_PASSWORD'],
-        'DB_HOST' => $_POST['DB_HOST'],
-        'DB_NAME' => $_POST['DB_NAME'],
-    ];
+    $username = $_POST['DB_USERNAME'];
+    $password = $_POST['DB_PASSWORD'];
+    $host = $_POST['DB_HOST'];
+    $name = $_POST['DB_NAME'];
+    
     // create .env file and convert $create to json
-    $env = json_encode($create);
-    file_put_contents('.env', $env);
-    // redirect to index.php
-    header('Location: index.php');
+    $fwrite = fopen(".env", "w") or die("Unable to open file!");
+    fwrite($fwrite, "DB_USERNAME=$username\n");
+    fwrite($fwrite, "DB_PASSWORD=$password\n");
+    fwrite($fwrite, "DB_HOST=$host\n");
+    fwrite($fwrite, "DB_NAME=$name\n");
+    fclose($fwrite);
+    echo json_encode(['success' => true, 'msg' ".env file created"]);
     exit();
 }
