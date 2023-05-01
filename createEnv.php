@@ -21,6 +21,6 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
     fwrite($fwrite, "DB_HOST=$host\n");
     fwrite($fwrite, "DB_NAME=$name\n");
     fclose($fwrite);
-    echo json_encode(['success' => true, 'msg' ".env file created"]);
+    echo json_code(['success' => true, 'msg' => ".env file created"]);
     exit();
 }
