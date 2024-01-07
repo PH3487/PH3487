@@ -8,21 +8,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 ```javascript
 const PHANUWAT = {
-    About_me:"Hello I'm Backend Developer",
-    Languages: ["Javascript", "Php"],
-    Framework: {
-      Javascript:["Vuejs", "Nuxtjs","Jquery"],
-      PHP:["Laravel"],
+    ABOUT: "Backend Developer",
+    DEPLOYMENT: ["DOCKER","CLOUDFLARE"],
+    LANGUAGES: ["JS", "PHP"],
+    FRAMEWORK: {
+      Javascript:["Express.js", "Nuxt"],
+      PHP:["Laravel", "Code igniter 4"],
     },
-    Fullstack:{
-      Frontend:["Nuxtjs", "HTML"],
-      Backend:["Express", "Laravel", "Pure Php"],
-      Database:["Mysql", "MongoDB"]
-    },
-    Contact: {
-      Facebook: "Raphior Burge",
-      Discord: "Shibaman#8513"
-    }
 };
 ```
 <a href="https://github.com/PH3487">
