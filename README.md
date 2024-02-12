@@ -7,13 +7,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 ```javascript
-const PHANUWAT = {
-    ABOUT: "Backend Developer",
-    DEPLOYMENT: ["DOCKER","CLOUDFLARE"],
-    LANGUAGES: ["JS", "PHP"],
-    FRAMEWORK: {
+const me = {
+    Role: "Backend Developer",
+    Nickname: "RAPTER",
+    Age: 24,
+    Devops: ["Docker","Cloudflare", "Vercel"],
+    Languages: ["JS", "PHP"],
+    Frameworks: {
       Javascript:["Express.js", "Nuxt"],
-      PHP:["Laravel", "Code igniter 4"],
+      PHP: "CI4",
     },
 };
 ```
