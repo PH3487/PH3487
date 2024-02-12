@@ -11,6 +11,7 @@ const me = {
     Role: "Backend Developer",
     Nickname: "RAPTER",
     Age: 24,
+    Exp: "6 Year",
     Devops: ["Docker","Cloudflare", "Vercel"],
     Languages: ["JS", "PHP"],
     Frameworks: {
