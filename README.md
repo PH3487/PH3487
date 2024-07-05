@@ -7,17 +7,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 ```javascript
-const me = {
+const AboutMe = {
     Role: "Backend Developer",
     Nickname: "RAPTER",
     Age: 24,
     Exp: "6 Year",
-    Devops: ["Docker","Cloudflare", "Vercel"],
-    Languages: ["JS", "PHP"],
-    Frameworks: {
-      Javascript:["Express.js", "Nuxt"],
-      PHP: "CI4",
-    },
+    Languages: ["NodeJS", "PHP"]
 };
 ```
 <a href="https://github.com/PH3487">
